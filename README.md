@@ -1,9 +1,13 @@
 # MusicPlayer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+
 ## Important Instruction
 To use spotifyAPI go to `authorization_code` and run command `node app`. Navigate To `http://localhost:8888/` and login with you spotify id 
 .After login copy `access_token` from address bar and paste it to the `access_token` variable in file `spotify.service.ts` which is located at `musicPlayer/src/app` directory and save it.  
+
+## MPM
+run `npm install ` command to download all the depenencies used in the project .
 
 ## Development server
 
