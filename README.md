@@ -7,7 +7,7 @@ To use spotifyAPI go to `authorization_code` and run command `node app`. Navigat
 .After login copy `access_token` from address bar and paste it to the `access_token` variable in file `spotify.service.ts` which is located at `musicPlayer/src/app` directory and save it.  
 
 ## MPM
-run `npm install ` command to download all the depenencies used in the project .
+run `npm install ` command to download all the dependencies used in the project .
 
 ## Development server
 
